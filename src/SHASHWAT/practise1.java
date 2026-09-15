@@ -1,6 +1,6 @@
 package SHASHWAT;
 
-public class practise {
+public class practise1 {
     static void main() {
         int op=15;
         int ans=op++ + ++op - --op -op++;
