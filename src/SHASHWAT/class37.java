@@ -12,7 +12,7 @@ public class class37 {
             if(arr[mid]==target){
               //  System.out.println(mid);
                 ans=mid;
-                
+
               //  break;
             }
             else if(arr[s]<=arr[mid]){
